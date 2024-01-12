@@ -1,30 +1,4 @@
-# React + TypeScript + Vite
+<div><h3> <img align="center" height="25" width="25" alt="Vitest logo" src="https://www.svglogo.net/upload/202302/14/71d2bf63-bc5c-4327-9a3f-bd994af1e94d.svg" /> Por que utilizar testes unitários em minha aplicação react?<h3> <h5>Os testes unitários são essenciais para garantir a detecção precoce de bugs, facilitar a manutenção do código, documentar eficientemente as funcionalidades, melhorar a qualidade geral do código e acelerar o processo de desenvolvimento. Ao oferecer uma abordagem sistemática para validar unidades individuais de código, os testes unitários proporcionam confiança e estabilidade ao longo do ciclo de vida do projeto, contribuindo para um desenvolvimento mais eficiente e robusto.</h5></div>
+<hr>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<div><h3>Créditos:</h3></div> <h5>Video aula utilizada para auxiliar esse estudo: <a href="https://www.youtube.com/watch?v=iLZHFDelYpQ">Click me!</a></h5></div>
